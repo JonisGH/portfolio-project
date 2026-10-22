@@ -1,0 +1,4 @@
+# pnpm settings for this single application; no repository-wide workspace.
+allowBuilds:
+  unrs-resolver@1.12.2: true
+  sharp: false
